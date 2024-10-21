@@ -1,1 +1,1 @@
-This is the project that works in generating real time Instagram Hashtags. The main motto of this project is to generate only the related and most relevant hashtags for the given post like image or video. By using this project, we can avoid the irrelevant and duplicate hashtags.
+
