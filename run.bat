@@ -1,2 +1,0 @@
-python Hashtag.py
-pause
